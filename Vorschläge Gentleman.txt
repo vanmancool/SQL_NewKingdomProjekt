@@ -1,0 +1,21 @@
+1 - Level Arena erstellen
+2 - Level items erstellen
+3 - quest für Leveln erstellen
+4 - Start coordinaten ändern -> direkt leveling road
+5 - exp/quest rate anpassen
+6 - instance bis ICC übernehmen, Rest einfügen und erstellen
+7 - Tier 1 bis 6 überarbeiten ggf stats verändern
+8 - aus New Kingdom quest, 255 Level taken entfernen
+[erledigt] 9 
+10 - Rechte überarbeiten 
+11 - Events erstellen in hidden Zonen
+12 - Server regeln erstellen, und mit Chris/Pascal besprechen [HAT LANGE ZEIT]
+13 - apply Formular erstellen für gm [HWT LANGE ZEIT]
+[erledigt] 14 - Lehrer in mall spawnen
+[erledigt] 15 - Berufe in mall spawnen
+[erledigt] 16 - SOCKEL npcs
+17 - mats in mall spawnen
+18 - donor/vote npc erstellen [noch keine items adden]
+19 - mall verschönern, Pascal beten Bäume außen zu platzieren, und in patch einfügen
+20 - npc für Wegbeschreibung erstellen
+21 - einmal pro Tag eine Quest wo die erste Gruppe die zB ICC cleared, bekommt ein seltenes item

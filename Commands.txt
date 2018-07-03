@@ -1,0 +1,137 @@
+				TRIAL GM RECHTE - ERLAUBEN & VERBIETEN !!!
+
+Trial - Game Master erlauben :
+
+-Appear
+-summon
+-Ticket
+-tele
+-whisper
+-gm
+-chat badge
+
+Trial - Game Master verbieten !!! :
+
+- Anticheat
+- Arena
+- Character
+- debug
+- Event
+- go
+- gobject
+- Honor
+- instance
+- lfg
+- nameannounce
+- announce
+- gmannounce
+- notify
+- gmnotify
+- combatstop
+- dismount
+- guild
+- itemmove
+- kick
+- listfreeze
+- mutehistory
+- playall
+- recall
+- repairitems
+- saveall
+- morph / demorph
+- modify
+- NPC
+- pet
+- send
+- titles
+- wp
+
+
+
+				GM RECHTE - ERLAUBEN !!!!!
+
+-Appear
+-summon
+-Ticket
+-tele
+-whisper
+-gm
+-chat badge
+-add
+-announce
+-kick
+-ban (KEIN UNBAN !!!)
+-morph / demorph
+-unaura
+-learn / unlearn
+
+
+
+				Head GM - ERLAUBEN !!!!!
+
+-Appear
+-summon
+-Ticket
+-tele
+-whisper
+-gm
+-chat badge
+-add
+-announce
+-kick
+-ban (KEIN UNBAN !!!)
+-morph / demorph
+-unaura
+-learn / unlearn
+-server
+
+				Dev - ERLAUBEN !!!!!
+
+- Appear
+- summon
+- Ticket
+- tele
+- whisper
+- gm
+- chat badge
+- add
+- announce
+- kick
+- ban (KEIN UNBAN !!!)
+- morph / demorph
+- unaura
+- learn / unlearn
+- server
+- Anticheat
+- Arena
+- Character
+- debug
+- Event
+- go
+- gobject
+- Honor
+- instance
+- lfg
+- nameannounce
+- announce
+- gmannounce
+- notify
+- gmnotify
+- combatstop
+- dismount
+- guild
+- itemmove
+- kick
+- listfreeze
+- mutehistory
+- playall
+- recall
+- repairitems
+- saveall
+- morph / demorph
+- modify
+- NPC
+- pet
+- send
+- titles
+- wp

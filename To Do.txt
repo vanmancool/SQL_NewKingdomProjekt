@@ -1,0 +1,97 @@
+
+2- Scripts überarbeiten
+1-v1 Arena Script Info rausnehmen
+Fake Players script rausnehmen
+Transmog : HOW SETS WORK
+
+3- Start Items erstellen
+
+3-2- Start NPC's erstellen
+
+3-3- Start Quests Fertig stellen
+
+4- Startmap bespawnen und fertig stellen
+
+5- Event Map erstellen
+
+6- Ersten Raid fertig machen
+
+7- Custom Achievements
+
+8- Eigenen NPC Creator erstellen
+
+9- Instanzen Map erstellen
+
+-----------------------------------------------------------
+
+ENTRY ID START:
+
+Custom Items > 80000
+
+Mounts 		 > 90000
+
+Set Equip    > 110000
+
+Off Set Equip> 150000
+
+------------------------------------------------------------
+
+für NOTFÄLLE!
+
+test1-15 : test
+
+------------------------------------------------------------
+
+Startideen:
+
+1 - Vendor für T10 Erstellen
+2 - Startlevel auf 80
+3 - Custom questreihe 
+4 - 
+
+------------------------------------------------------------
+
+Wichtige Model ID's:
+
+9741 - Zwerg
+
+20242 - Invisible
+
+25452 - Banshee
+
+25453 - Yellow Orb
+
+25397 - Standing Bear
+
+25468 - Kel aus naxx
+
+25586 - baumfäller mit Holz
+
+25593 - blauer Drache 
+
+25720 - Feuer Boss
+
+25785 - Feuer Hund 
+
+
+
+
+
+
+//
+
+UPDATE `item_template` SET  `Name` = Caster Head, `armor` = 0, `subclass` = 0, `RequiredLevel` = 0, `StatsCount` = 10, `stat_type1` = 7, `stat_value1` = 0, `stat_type2` = 7, `stat_value2` = 0, `stat_type3` = 7, `stat_value3` = 0, `stat_type4` = 7, `stat_value4` = 500, `stat_type5` = 7, `stat_value5` = 500, `stat_type6` = 7, `stat_value6` = 500, `stat_type7` = 7, `stat_value7` = 500, `stat_type8` = 7, `stat_value8` = 500, `stat_type9` = 7, `stat_value9` = 500, `stat_type10` = 7, `stat_value10` = 500 WHERE `entry` = 110000;
+
+SELECT * FROM `item_template` WHERE `itemset` = 185
+
+//
+
+
+
+
+// ENDLICH ON KOMMEN UND WAS FERTIG BEKOMMEN
+// ENDLICH ON KOMMEN UND WAS FERTIG BEKOMMEN
+// ENDLICH ON KOMMEN UND WAS FERTIG BEKOMMEN
+// ENDLICH ON KOMMEN UND WAS FERTIG BEKOMMEN
+// ENDLICH ON KOMMEN UND WAS FERTIG BEKOMMEN
+// ENDLICH ON KOMMEN UND WAS FERTIG BEKOMMEN

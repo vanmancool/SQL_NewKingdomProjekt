@@ -1,0 +1,86 @@
+
+
+
+
+---------------------------------------------------
+
+
+
+Achtet auf eure Rechtschreibung und bitte alles in Englisch schreiben!
+
+
+
+
+
+14.12 :
+
+Changelog erstellt!
+
+Faction von "Attacker of the Horde " Fixed  
+
+
+
+15.12 :
+
+Death Knight Trainer Runeforge added
+
+
+
+16.12 :
+
+Sockel Npc added
+
+Glyph Npc added
+
+Npc in Mall changed (Name changed) !!!Welcher?!!! Ändern wenn du es noch weißt!
+
+
+
+17.12 :
+
+Vendors for Professions and other added
+
+Worldboss Place added
+
+
+
+18.12 :
+
+Deleted Arena Gambler and Arena of it
+Fixed Starting Place (You should now correctly spawn as new Character)
+Updatet Gossip and SMARTAI of Teleporter (should work correctly now)
+Updatet Gossip of Teleporter (Worldboss Teleport Added, Profession Zone added, Arena Gambler deleted)
+Updatet Gossip of Worldboss Arestikor with the right Teleport Location
+Fixed New Kingdom Startzone Teleport
+Updatet Teleport of Clone of Batllemage Aronidas (he now should teleport you correctly)
+Added new Maps and Vmaps (You can now spawn Totems and Pets on Custom Maps)
+Worked on Kingdom Mall
+Profession Zone added
+Profession Vendors and Trainers moved to Profession Zone
+Updatet Profession Zone
+Teleporter NPC added to Profession Zone
+Rbac Permissions reworked (New Ranks added)
+Fucked up all Characters :DDD
+Fixed some DB Errors
+New teleport to profession zone for GMS added : .tele profession
+New teleport to First Worldboss zone for GMS added : .tele worldboss1
+T10 Vendor added to Startzone
+Trainers, Reagent, Quivers and Projectiles Vendor added to Startzone
+Reworked 1v1 Arena Master (More HP, Elite)
+Teleporter NPC added to Worldboss 1
+Added Totem of the Earthern Ring and Graccu's Mince Meat Fruitcake to Reagent Vendor
+Mage Blink should work as excepted now
+Added "Jessi the Pig of the Server"
+Added new Zones (Worldboss, Profession Zone)
+Added Graveyards for new Zones
+Trigger NPC for Teleport added
+Deleted Vendors at Kingdom Mall
+Added Test Minimap for Kingdom Mall
+Rbac System Fixed
+New Patch added
+
+
+
+
+
+
